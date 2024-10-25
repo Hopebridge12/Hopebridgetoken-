@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HopeBridgeToken (HoBT) - Whitepaper</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+    <!-- Meta etiquetas para SEO -->
+    <meta name="description" content="HopeBridgeToken: Donaciones seguras y transparentes a través de Blockchain">
+    <meta name="keywords" content="HopeBridgeToken, HoBT, blockchain, donaciones, ONG, BSC">
+    <meta name="robots" content="index, follow">
+</head>
+<body>
+
+    <!-- Encabezado -->
+    <header>
+        <div class="container">
+            <img src="hobt-logo.png" alt="Logo HopeBridgeToken" class="logo">
+            <h1>HopeBridgeToken (HoBT)</h1>
+            <p>Donaciones seguras y transparentes a través de Blockchain</p>
+        </div>
+    </header>
+
+    <!-- Sección Resumen Ejecutivo -->
+    <section id="resumen-ejecutivo" class="section">
+        <div class="container">
+            <h2>Resumen Ejecutivo</h2>
+            <p>HopeBridgeToken (HoBT) es un token diseñado para facilitar donaciones seguras y transparentes a ONG que operan en diversas causas sociales, ambientales y de bienestar animal. Con un enfoque en la comunidad, el 35% de nuestro suministro total se destina a un fondo de donaciones que garantiza apoyo a estas organizaciones durante un período de 25 años.</p>
+        </div>
+    </section>
+
+    <!-- Sección Problema y Solución -->
+    <section id="problema-solucion" class="section bg-light">
+        <div class="container">
+            <h2>Problema y Solución</h2>
+            <p>Las donaciones tradicionales a menudo carecen de transparencia y confianza. HopeBridgeToken aborda estos problemas utilizando tecnología blockchain, permitiendo a los donantes ver cómo se utilizan sus contribuciones y asegurando que lleguen a las ONG designadas.</p>
+        </div>
+    </section>
+
+    <!-- Sección Suministro y Distribución de Tokens -->
+    <section id="suministro-distribucion" class="section">
+        <div class="container">
+            <h2>Suministro y Distribución de Tokens</h2>
+            <ul>
+                <li><strong>35%</strong> Fondo de Donaciones</li>
+                <li><strong>15%</strong> Equipo (con bloqueo total de 1 año)</li>
+                <li><strong>50%</strong> Liquidez, marketing, preventa y airdrop</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Sección Fondo de Donaciones -->
+    <section id="fondo-donaciones" class="section bg-light">
+        <div class="container">
+            <h2>Fondo de Donaciones</h2>
+            <p>El 35% del suministro total de HoBT será destinado exclusivamente para apoyar a diferentes ONG durante 25 años...</p>
+        </div>
+    </section>
+
+    <!-- Enlace para descargar el Whitepaper -->
+    <section id="whitepaper" class="section">
+        <div class="container">
+            <h2>Descargar Whitepaper</h2>
+            <p><a href="Whitepaper-HopeBridgeToken.pdf" download>Descargar Whitepaper en PDF</a></p>
+        </div>
+    </section>
+
+    <!-- Pie de Página -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 HopeBridgeToken. Todos los derechos reservados.</p>
+        </div>
+    </footer>
+
+</body>
+</html>
+/* styles.css */
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    padding: 50px 0;
+    background-color: #004aad;
+    color: white;
+}
+
+.logo {
+    width: 150px;
+}
+
+.section {
+    padding: 40px 0;
+}
+
+.bg-light {
+    background-color: #e9ecef;
+}
+
+h2 {
+    font-weight: 600;
+    color: #004aad;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: white;
+}
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>https://tu-sitio.vercel.app/</loc>
+      <lastmod>2024-10-01</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+   </url>
+</urlset>
+User-agent: *
+Allow: /
+Sitemap: https://tu-sitio.vercel.app/sitemap.xml
